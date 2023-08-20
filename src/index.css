@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.calendar{
+    font-family: 'Questrial', sans-serif;
+}
+
+.custom{
+    font-family: 'Questrial', sans-serif;
+}
+
+body{
+    background-color: rgb(250, 234, 197);
+}
+
+.raleway{
+    font-family: 'Raleway', sans-serif;
+}
